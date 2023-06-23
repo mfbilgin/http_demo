@@ -46,3 +46,10 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 *.cpp
+/android
+/ios
+/linux
+/macos
+/web
+/test
+```
